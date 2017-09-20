@@ -1,0 +1,33 @@
+
+.logo{
+  font-weight: 300;
+  padding-left: 10px;
+}
+.thin-text{
+  font-weight: 300;
+  background:rgba(96, 125, 139, .4);
+  padding:40px;
+  border-radius:10px;
+}
+body{
+  background: #ccc;
+}
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+.section-header{
+    font-weight: 300px;
+}
+
+.cta{
+  margin-top: 80px;
+  padding: 20px;
+  font-weight: 300;
+  text-shadow: 1px 1px black;
+}
